@@ -2,7 +2,7 @@
 Earn Achievements while learning how to code
 
 
-Game-ify your experience while learning to code and get achievements for different concepts as you use them. Start off at a simple `print` statement and work your way up to `functions` and `classes` (and more to come).
+Gamify your experience while learning to code and get achievements for different concepts as you use them. Start at a simple `print` statement and work your way up to `functions` and `classes` (and more to come).
 
 
 <br/>
@@ -30,7 +30,7 @@ result = cumulative_sum(4)
 print('value: ', result)
 ```
 
-And run it in terminal as you normally would:
+And run it in the terminal as you normally would:
 ```shell
 $ python3 my_script.py
 
@@ -65,7 +65,7 @@ To uninstall:
 
 1. Currently this _only_ works on single file scripts - if you import your own module (e.g. for utility functions) that module will _not_ be parsed (planning on fixing this though)
 1. Some achievements have _dependencies_, and will only be unlocked once previous ones have been unlocked
-1. Unlocked achievements will remain unlocked, so those "Achievement Unlocked" messages will should only show once per achievement
+1. Unlocked achievements will remain unlocked, so those "Achievement Unlocked" messages will only show once per achievement
 
 
 <br/>
